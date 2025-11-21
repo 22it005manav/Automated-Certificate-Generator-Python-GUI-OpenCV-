@@ -1,6 +1,8 @@
 Automated Certificate Generator (Python GUI + OpenCV)
+
 Automated Certificate Generator
 Tech: Python, Tkinter GUI, OpenCV, Pillow
+
 Improved Details:
 Developed a full desktop GUI application that automatically generates personalized certificates by placing user-provided names and details onto a template image.
 Implemented text alignment, font handling, and coordinate-based placement using OpenCV + Pillow to ensure crisp output at different resolutions.
